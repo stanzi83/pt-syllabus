@@ -1,5 +1,6 @@
 # DevMountain Part-time Syllabus
 Michele
+is here
 ## Index
 - [Week 1](#week1)
   - [Day 1](#day11)
